@@ -1,0 +1,7 @@
+
+
+relative_humidity= 87.901387
+temperature_average= 2.740029
+wind_speed= 3.900717
+precipitation_amount=NaN
+pressure_verage=1012.634146
